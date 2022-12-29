@@ -22,12 +22,11 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![alt text](https://i.imgur.com/QTpvtN0.gifv)
 
+<img src='https://i.imgur.com/CyfHKbp.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with 
-[Kap](https://getkap.co/) for macOS
+GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
